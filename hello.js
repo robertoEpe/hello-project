@@ -1,1 +1,2 @@
-console.log("Hello World")
+let name = 'Github'
+console.log("Hello, " + name)
