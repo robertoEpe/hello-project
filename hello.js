@@ -1,2 +1,2 @@
 let name = 'Github'
-console.log("Hello, " + name)
+alert("Hello, " + name)
